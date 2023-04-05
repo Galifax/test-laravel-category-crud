@@ -1,0 +1,8 @@
+ul.languages {
+    list-style-type: none;
+    display: flex;
+}
+
+ul.languages li {
+    padding: 5px;
+}
